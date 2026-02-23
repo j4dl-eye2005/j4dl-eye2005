@@ -1,4 +1,8 @@
-# 👋 Hi, I'm J4dl
+# 👋 Hi, I'm Julius!
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Xrpfe9Mn00Bndk9hh46UJibdWWIOgD_H" width="200" />
+</p>
 
 Welcome to my GitHub profile!
 

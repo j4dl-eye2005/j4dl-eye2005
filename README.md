@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm J4dl
 
-<!--
-**j4dl-eye2005/j4dl-eye2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
--->
-- 🔭 I’m currently working on Fiverr
-- 🌱 I’m currently learning Cybersecurity & Data Science
-- 👯 I’m looking to collaborate on any projects
-- 🤔 I’m looking for help with understanding the fundamentals
-- 💬 Ask me about my life
-- 📫 How to reach me: https://www.instagram.com/reformed.solas/
-- 😄 Pronouns: he/him
+## 🚀 About Me
+
+- 🔭 Currently working on **Fiverr**
+- 🌱 Learning **Cybersecurity & Data Science**
+- 👯 Open to collaborating on interesting tech projects
+- 🤔 Strengthening my understanding of programming fundamentals
+- 💬 Ask me about tech, growth, or life
 - ⚡ Fun fact: I love theology
+
+---
+
+## 🛠 Skills & Interests
+
+- Backend Development (PHP, MySQL)
+- Building REST APIs
+- Cybersecurity Fundamentals
+- Data Analysis & Problem Solving
+- Continuous Self-Improvement
+
+---
+
+## 📫 Connect With Me
+
+- Instagram: [@reformed.solas](https://www.instagram.com/reformed.solas/)
+
+---
+
+## 🎯 Goals
+
+- Build secure and scalable applications
+- Master cybersecurity principles
+- Grow as a developer every single day
+- Contribute to meaningful projects
+
+---
+
+> “Consistency beats motivation.” 🚀

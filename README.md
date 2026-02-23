@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+-->
 - 🔭 I’m currently working on Fiverr
 - 🌱 I’m currently learning Cybersecurity & Data Science
 - 👯 I’m looking to collaborate on any projects
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.instagram.com/reformed.solas/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love theology
--->
